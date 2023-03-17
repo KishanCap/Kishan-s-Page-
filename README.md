@@ -163,8 +163,8 @@ For more information about configuring front matter, see the [Jekyll frontmatter
 1. Type the following content at the top of your blog post:
    ```yaml
    ---
-   title: "YOUR-TITLE"
-   date: YYYY-MM-DD
+   title: "WELCOME TO KISHANS PAGE"
+   date: 2023-11-07
    ---
    ```
 1. Replace `YOUR-TITLE` with the title for your blog post.
