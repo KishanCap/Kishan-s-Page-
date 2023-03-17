@@ -29,7 +29,7 @@ With GitHub Pages, you can host project blogs, documentation, resumes, portfolio
 - **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
 - **How long**: This course is five steps long and takes less than one hour to complete.
 
-## How to start this course
+## How to begin this course and start your journey!
 
 1. Right-click **Start course** and open the link in a new tab.
    <br />[![start-course](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/skills/github-pages/generate)
